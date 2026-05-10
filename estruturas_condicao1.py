@@ -12,7 +12,7 @@
 #Ainda no script, altere o valor da variável temperatura para 31, 
 #salve a alteração e execute novamente o script.
 
-temperatura = 29
+temperatura = 31
 
 if temperatura < 30:
     print ("A temperatura hoje está amena")
