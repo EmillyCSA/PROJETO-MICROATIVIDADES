@@ -25,5 +25,6 @@
 
 tempoExperiencia = 5
 
-if tempoExperiencia > 2:
+if tempoExperiencia < 2:
     print ("Nível de conhecimento júnior.")
+    
