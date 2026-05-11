@@ -23,7 +23,7 @@
 #Por fim, altere novamente o script, modificando o valor da variável
 #tempoExperiencia para 3. Salve e execute.
 
-tempoExperiencia = 5
+tempoExperiencia = 1
 
 if tempoExperiencia < 2:
     print ("Nível de conhecimento júnior.")
